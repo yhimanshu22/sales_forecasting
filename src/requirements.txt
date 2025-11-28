@@ -5,22 +5,13 @@ streamlit
 autogluon
 pymongo
 python-dotenv
-ipython
-autoviz
+
+
 joblib
-tensorflow
-keras-tuner
-prophet
-tslearn
-optuna
+
 shap
-scikit-learn
+
 statsmodels
-xgboost
-tf-keras
-google-cloud-bigquery
-db-dtypes
-google-cloud-bigquery-storage
+
 requests
-extra_streamlit_components
 
