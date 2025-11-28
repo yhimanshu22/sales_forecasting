@@ -18,11 +18,9 @@ scikit-learn
 statsmodels
 xgboost
 tf-keras
-streamlit-oauth
 google-cloud-bigquery
 db-dtypes
 google-cloud-bigquery-storage
 requests
-PyJWT
 extra_streamlit_components
 
